@@ -236,4 +236,4 @@ This repository serves as the official landing page for PanGu. The software is d
 **Get the most recent version of PanGu today!**
 
 ---
-**Last updated:** 2026-09-11 22:13:42 UTC
+**Last updated:** 2026-09-12 00:53:35 UTC
